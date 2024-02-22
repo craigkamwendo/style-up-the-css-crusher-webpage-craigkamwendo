@@ -1,4 +1,4 @@
-﻿.body-class {
+.body-class {
 	background-color: #6699FF;
 }
 .header-class {
@@ -9,6 +9,7 @@
 	font-style: normal;
 	font-weight: bold;
 	background-color: #666699;
+	color: #FFFFCC;
 }
 .title-class, .section-title-class {
 	color: #00FFCC;
